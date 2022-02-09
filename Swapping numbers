@@ -1,0 +1,8 @@
+#insert<stdio.h>
+main()
+{
+int number;
+printf("Enter a two digit no.: ");
+scanf(%d,"number");
+return 0
+}
